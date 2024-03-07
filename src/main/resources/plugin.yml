@@ -1,0 +1,11 @@
+main: plugin.spectu.PluginMain
+version: 1.0.0
+name: PluginMain
+author: Spectu
+api-version: 1.13
+
+commands:
+  PluginCourse:
+    description: Main command to execute the plugin.
+    aliases:
+      - mp

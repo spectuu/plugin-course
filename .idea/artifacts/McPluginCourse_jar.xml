@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="McPluginCourse:jar">
+    <output-path>$PROJECT_DIR$/../MCServer/plugins</output-path>
+    <root id="archive" name="McPluginCourse.jar">
+      <element id="module-output" name="McPluginCourse" />
+    </root>
+  </artifact>
+</component>
